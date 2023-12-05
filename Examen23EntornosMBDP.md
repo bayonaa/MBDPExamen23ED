@@ -212,9 +212,15 @@ public static double raizCuadrada(double a) {
  
  **16.-(0,5) Añade este documento al repoitorio, con todas las imágenes para que se pueda ver desde git.**
 
+<img src="https://i.ibb.co/jhx5ssL/Captura-de-pantalla-2023-12-05-134247.png">
+<img src="https://i.ibb.co/nzf6MqK/Captura-de-pantalla-2023-12-05-134328.png">
+<img src="https://i.ibb.co/ZY23y9V/Captura-de-pantalla-2023-12-05-134400.png">
 
 **17.- Por último, ejecutad el siguiente comando:** 
 
 > *history > historial.txt* 
+
+<img src="https://i.ibb.co/6X3gL1V/Captura-de-pantalla-2023-12-05-134451.png">
+<img src="https://i.ibb.co/60dN8yY/Captura-de-pantalla-2023-12-05-134632.png">
 
 **sube el resultado a aules junto al PDF de este documento.** 
